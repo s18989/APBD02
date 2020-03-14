@@ -1,0 +1,2173 @@
+<?xml version="1.0"?>
+<Uczelnia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" utworzono="14.03.2020" autor="Hubert Strąk">
+  <ListaStudentow>
+    <Student numerIndeksu="s459">
+      <imie>Paweł</imie>
+      <nazwisko>Nowak1</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>1@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4816">
+      <imie>Kaja</imie>
+      <nazwisko>Jankowski29</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>29@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4749">
+      <imie>Justyna</imie>
+      <nazwisko>Kowalski30</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>30@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4432">
+      <imie>Michał</imie>
+      <nazwisko>Nowak31</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>31@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4757">
+      <imie>Kamil</imie>
+      <nazwisko>Brzęczyszczykiewicz32</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>32@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4655">
+      <imie>Marta</imie>
+      <nazwisko>Maciejewski33</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>33@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4398">
+      <imie>Szymon</imie>
+      <nazwisko>Jankowski34</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>34@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4799">
+      <imie>Joanna</imie>
+      <nazwisko>Brzęczyszczykiewicz37</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>37@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4626">
+      <imie>Irena</imie>
+      <nazwisko>Maciejewski38</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>38@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4446">
+      <imie>Adam</imie>
+      <nazwisko>Jankowski39</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>39@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4396">
+      <imie>Kacper</imie>
+      <nazwisko>Kowalski40</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>40@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4902">
+      <imie>Paweł</imie>
+      <nazwisko>Nowak41</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>41@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4434">
+      <imie>Aleksandra</imie>
+      <nazwisko>Brzęczyszczykiewicz42</nazwisko>
+      <studia studia="Sztuka Nowych Mediów zaoczne" liczbaStudentow="1">
+        <typStudiow>Zaoczne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>42@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4517">
+      <imie>Katarzyna</imie>
+      <nazwisko>Maciejewski43</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>43@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4705">
+      <imie>Grzegorz</imie>
+      <nazwisko>Jankowski44</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>44@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4661">
+      <imie>Adrian</imie>
+      <nazwisko>Kowalski45</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>45@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4842">
+      <imie>Jan</imie>
+      <nazwisko>Nowak46</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>46@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4709">
+      <imie>Jakub</imie>
+      <nazwisko>Brzęczyszczykiewicz47</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>47@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4792">
+      <imie>Iga</imie>
+      <nazwisko>Maciejewski48</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>48@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4789">
+      <imie>Jakub</imie>
+      <nazwisko>Jankowski49</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>49@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4708">
+      <imie>Maria</imie>
+      <nazwisko>Kowalski50</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>50@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4404">
+      <imie>Artur</imie>
+      <nazwisko>Nowak51</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>51@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4513">
+      <imie>Sabina</imie>
+      <nazwisko>Brzęczyszczykiewicz52</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>52@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4442">
+      <imie>Łukasz</imie>
+      <nazwisko>Maciejewski53</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>53@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4732">
+      <imie>Marcin</imie>
+      <nazwisko>Jankowski54</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>54@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4506">
+      <imie>Rafał</imie>
+      <nazwisko>Kowalski55</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>55@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4649">
+      <imie>Jan</imie>
+      <nazwisko>Nowak56</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>56@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4755">
+      <imie>Jakub</imie>
+      <nazwisko>Brzęczyszczykiewicz57</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>57@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4890">
+      <imie>Julia</imie>
+      <nazwisko>Maciejewski58</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>58@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4594">
+      <imie>Karol</imie>
+      <nazwisko>Jankowski59</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>59@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4925">
+      <imie>Katarzyna</imie>
+      <nazwisko>Nowak61</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>61@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4748">
+      <imie>Marzena</imie>
+      <nazwisko>Brzęczyszczykiewicz62</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>62@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4720">
+      <imie>Filip</imie>
+      <nazwisko>Maciejewski63</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>63@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4423">
+      <imie>Karolina</imie>
+      <nazwisko>Jankowski64</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>64@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4299">
+      <imie>Mateusz</imie>
+      <nazwisko>Kowalski65</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>65@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4629">
+      <imie>Magdalena</imie>
+      <nazwisko>Nowak66</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>66@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4889">
+      <imie>Igor</imie>
+      <nazwisko>Brzęczyszczykiewicz67</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>67@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4831">
+      <imie>Bogumiła</imie>
+      <nazwisko>Maciejewski68</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>68@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4478">
+      <imie>Paweł</imie>
+      <nazwisko>Jankowski69</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>69@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4718">
+      <imie>Marta</imie>
+      <nazwisko>Kowalski70</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>70@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4741">
+      <imie>Kamil</imie>
+      <nazwisko>Nowak71</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>71@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4444">
+      <imie>Beata</imie>
+      <nazwisko>Brzęczyszczykiewicz72</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>72@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4552">
+      <imie>Kacper</imie>
+      <nazwisko>Maciejewski73</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>73@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4462">
+      <imie>Gustaw</imie>
+      <nazwisko>Jankowski74</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>74@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4414">
+      <imie>Arkadiusz</imie>
+      <nazwisko>Kowalski75</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>75@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4508">
+      <imie>Sonia</imie>
+      <nazwisko>Nowak76</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>76@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4800">
+      <imie>Sandra</imie>
+      <nazwisko>Brzęczyszczykiewicz77</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>77@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4429">
+      <imie>Małgorzata</imie>
+      <nazwisko>Maciejewski78</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>78@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4927">
+      <imie>Kiyomi</imie>
+      <nazwisko>Jankowski79</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>79@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4502">
+      <imie>Konrad</imie>
+      <nazwisko>Kowalski80</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>80@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4744">
+      <imie>Tomasz</imie>
+      <nazwisko>Nowak81</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>81@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4477">
+      <imie>Maciej</imie>
+      <nazwisko>Brzęczyszczykiewicz82</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>82@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4736">
+      <imie>Katarzyna</imie>
+      <nazwisko>Maciejewski83</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>83@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4849">
+      <imie>Klaudia</imie>
+      <nazwisko>Jankowski84</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>84@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4819">
+      <imie>Michał</imie>
+      <nazwisko>Kowalski85</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>85@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4445">
+      <imie>Sebastian</imie>
+      <nazwisko>Nowak86</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>86@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4707">
+      <imie>Kamil</imie>
+      <nazwisko>Brzęczyszczykiewicz87</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>87@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4764">
+      <imie>Jagna</imie>
+      <nazwisko>Maciejewski88</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>88@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4722">
+      <imie>Izabela</imie>
+      <nazwisko>Jankowski89</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>89@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4452">
+      <imie>Mateusz</imie>
+      <nazwisko>Kowalski90</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>90@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4545">
+      <imie>Daria</imie>
+      <nazwisko>Nowak91</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>91@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4771">
+      <imie>Agnieszka</imie>
+      <nazwisko>Brzęczyszczykiewicz92</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>92@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4706">
+      <imie>Iwona</imie>
+      <nazwisko>Maciejewski93</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>93@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4772">
+      <imie>Aleksandra</imie>
+      <nazwisko>Jankowski94</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>94@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s3374">
+      <imie>Tomasz</imie>
+      <nazwisko>Kowalski95</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>95@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4756">
+      <imie>Jolanta</imie>
+      <nazwisko>Nowak96</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>96@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4457">
+      <imie>Aleksandra</imie>
+      <nazwisko>Brzęczyszczykiewicz97</nazwisko>
+      <studia studia="Sztuka Nowych Mediów dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>97@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4412">
+      <imie>Paweł</imie>
+      <nazwisko>Brzęczyszczykiewicz252</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>252@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4525">
+      <imie>Dariusz</imie>
+      <nazwisko>Maciejewski253</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>253@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4836">
+      <imie>Kamil</imie>
+      <nazwisko>Jankowski254</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>254@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4788">
+      <imie>Łukasz</imie>
+      <nazwisko>Kowalski255</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>255@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4474">
+      <imie>Tomasz</imie>
+      <nazwisko>Nowak256</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>256@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4454">
+      <imie>Michał</imie>
+      <nazwisko>Brzęczyszczykiewicz257</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>257@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4443">
+      <imie>Patryk</imie>
+      <nazwisko>Maciejewski258</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>258@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4851">
+      <imie>Bhagirath</imie>
+      <nazwisko>Jankowski259</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>259@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4579">
+      <imie>Michał</imie>
+      <nazwisko>Kowalski260</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>260@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4461">
+      <imie>Marek</imie>
+      <nazwisko>Nowak261</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>261@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4747">
+      <imie>Przemysław</imie>
+      <nazwisko>Brzęczyszczykiewicz262</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>262@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4762">
+      <imie>Marcin</imie>
+      <nazwisko>Maciejewski263</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>263@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4413">
+      <imie>Zuzanna</imie>
+      <nazwisko>Jankowski264</nazwisko>
+      <studia studia="Zarządzanie informacją dzienne (kierunek Zarządzanie)" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>264@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4490">
+      <imie>Michał</imie>
+      <nazwisko>Kowalski265</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>265@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4554">
+      <imie>Wojciech</imie>
+      <nazwisko>Nowak266</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>266@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4340">
+      <imie>Enkh-Amgalan</imie>
+      <nazwisko>Brzęczyszczykiewicz267</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>267@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4586">
+      <imie>Adrian</imie>
+      <nazwisko>Maciejewski268</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>268@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4798">
+      <imie>Bartosz</imie>
+      <nazwisko>Jankowski269</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>269@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4711">
+      <imie>Jakub</imie>
+      <nazwisko>Kowalski270</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>270@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4056">
+      <imie>Sebastian</imie>
+      <nazwisko>Nowak271</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>271@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4549">
+      <imie>Aleksandra</imie>
+      <nazwisko>Brzęczyszczykiewicz272</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>272@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4618">
+      <imie>Piotr</imie>
+      <nazwisko>Maciejewski273</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>273@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4530">
+      <imie>Adrian</imie>
+      <nazwisko>Jankowski274</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>274@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4607">
+      <imie>Andrzej</imie>
+      <nazwisko>Kowalski275</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>275@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4459">
+      <imie>Wojciech</imie>
+      <nazwisko>Nowak276</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>276@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4501">
+      <imie>Monika</imie>
+      <nazwisko>Brzęczyszczykiewicz277</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>277@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4858">
+      <imie>Jan</imie>
+      <nazwisko>Maciejewski278</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>278@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4578">
+      <imie>Paweł</imie>
+      <nazwisko>Jankowski279</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>279@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4555">
+      <imie>Bartosz</imie>
+      <nazwisko>Kowalski280</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>280@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4589">
+      <imie>Agata</imie>
+      <nazwisko>Nowak281</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>281@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4945">
+      <imie>Matthew</imie>
+      <nazwisko>Brzęczyszczykiewicz282</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>282@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4556">
+      <imie>Piotr</imie>
+      <nazwisko>Maciejewski283</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>283@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4504">
+      <imie>Grzegorz</imie>
+      <nazwisko>Jankowski284</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>284@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4505">
+      <imie>Sebastian</imie>
+      <nazwisko>Kowalski285</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>285@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4105">
+      <imie>Filip</imie>
+      <nazwisko>Nowak286</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>286@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4487">
+      <imie>Jakub</imie>
+      <nazwisko>Brzęczyszczykiewicz287</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>287@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4498">
+      <imie>Artur</imie>
+      <nazwisko>Maciejewski288</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>288@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4471">
+      <imie>Piotr</imie>
+      <nazwisko>Jankowski289</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>289@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4855">
+      <imie>Małgorzata</imie>
+      <nazwisko>Kowalski290</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>290@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4752">
+      <imie>Arkadiusz</imie>
+      <nazwisko>Nowak291</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>291@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4770">
+      <imie>Jakub</imie>
+      <nazwisko>Brzęczyszczykiewicz292</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>292@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4476">
+      <imie>Adam</imie>
+      <nazwisko>Maciejewski293</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>293@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4724">
+      <imie>Tomasz</imie>
+      <nazwisko>Jankowski294</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>294@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4754">
+      <imie>Piotr</imie>
+      <nazwisko>Kowalski295</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>295@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4769">
+      <imie>Michał</imie>
+      <nazwisko>Nowak296</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>296@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4499">
+      <imie>Maciej</imie>
+      <nazwisko>Brzęczyszczykiewicz297</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>297@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4733">
+      <imie>Jakub</imie>
+      <nazwisko>Maciejewski298</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>298@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4584">
+      <imie>Kasper</imie>
+      <nazwisko>Jankowski299</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>299@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4514">
+      <imie>Krzysztof</imie>
+      <nazwisko>Kowalski300</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>300@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4448">
+      <imie>Michał</imie>
+      <nazwisko>Nowak301</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>301@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4664">
+      <imie>Paweł</imie>
+      <nazwisko>Brzęczyszczykiewicz302</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>302@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4935">
+      <imie>Katarzyna</imie>
+      <nazwisko>Maciejewski303</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>303@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4485">
+      <imie>Konrad</imie>
+      <nazwisko>Jankowski304</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>304@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4456">
+      <imie>Piotr</imie>
+      <nazwisko>Kowalski305</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>305@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4107">
+      <imie>Jan</imie>
+      <nazwisko>Nowak306</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>306@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4482">
+      <imie>Radosław</imie>
+      <nazwisko>Brzęczyszczykiewicz307</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>307@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4817">
+      <imie>Kacper</imie>
+      <nazwisko>Maciejewski308</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>308@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4765">
+      <imie>Tomasz</imie>
+      <nazwisko>Jankowski309</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>309@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4387">
+      <imie>Lech</imie>
+      <nazwisko>Kowalski310</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>310@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4509">
+      <imie>Błażej</imie>
+      <nazwisko>Nowak311</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>311@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4609">
+      <imie>Karol</imie>
+      <nazwisko>Brzęczyszczykiewicz312</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>312@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4481">
+      <imie>Paweł</imie>
+      <nazwisko>Maciejewski313</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>313@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4512">
+      <imie>Wojciech</imie>
+      <nazwisko>Jankowski314</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>314@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4782">
+      <imie>Maciej</imie>
+      <nazwisko>Kowalski315</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>315@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4492">
+      <imie>Michał</imie>
+      <nazwisko>Nowak316</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>316@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4531">
+      <imie>Piotr</imie>
+      <nazwisko>Brzęczyszczykiewicz317</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>317@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4406">
+      <imie>Marcin</imie>
+      <nazwisko>Maciejewski318</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>318@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4394">
+      <imie>Krzysztof</imie>
+      <nazwisko>Jankowski319</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>319@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4627">
+      <imie>Michał</imie>
+      <nazwisko>Kowalski320</nazwisko>
+      <studia studia="Informatyka internetowe magisterskie" liczbaStudentow="1">
+        <typStudiow>Internetowe</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>320@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4830">
+      <imie>Krzysztof</imie>
+      <nazwisko>Nowak321</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>321@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4486">
+      <imie>Adrian</imie>
+      <nazwisko>Brzęczyszczykiewicz322</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>322@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4447">
+      <imie>Mariusz</imie>
+      <nazwisko>Maciejewski323</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>323@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4580">
+      <imie>Bartosz</imie>
+      <nazwisko>Jankowski324</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>324@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4284">
+      <imie>Piotr</imie>
+      <nazwisko>Kowalski325</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>325@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4440">
+      <imie>Michał</imie>
+      <nazwisko>Nowak326</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>326@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4410">
+      <imie>Aleksander</imie>
+      <nazwisko>Brzęczyszczykiewicz327</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>327@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4615">
+      <imie>Andrzej</imie>
+      <nazwisko>Maciejewski328</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>328@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4796">
+      <imie>Paweł</imie>
+      <nazwisko>Jankowski329</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>329@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4458">
+      <imie>Paweł</imie>
+      <nazwisko>Kowalski330</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>330@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4942">
+      <imie>Nakul</imie>
+      <nazwisko>Brzęczyszczykiewicz332</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>332@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4614">
+      <imie>Tomoto</imie>
+      <nazwisko>Maciejewski333</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>333@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4822">
+      <imie>Krzysztof</imie>
+      <nazwisko>Jankowski334</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>334@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4433">
+      <imie>Adam</imie>
+      <nazwisko>Kowalski335</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>335@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4557">
+      <imie>Jan</imie>
+      <nazwisko>Nowak336</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>336@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4599">
+      <imie>Gabriel</imie>
+      <nazwisko>Brzęczyszczykiewicz337</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>337@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4419">
+      <imie>Michał</imie>
+      <nazwisko>Maciejewski338</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>338@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4828">
+      <imie>Michał</imie>
+      <nazwisko>Jankowski339</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>339@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4460">
+      <imie>Kacper</imie>
+      <nazwisko>Kowalski340</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>340@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4058">
+      <imie>Adrian</imie>
+      <nazwisko>Nowak341</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>341@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4524">
+      <imie>Michał</imie>
+      <nazwisko>Brzęczyszczykiewicz342</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>342@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4588">
+      <imie>Katarzyna</imie>
+      <nazwisko>Maciejewski343</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>343@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4743">
+      <imie>Piotr</imie>
+      <nazwisko>Jankowski344</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>344@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4721">
+      <imie>Karol</imie>
+      <nazwisko>Kowalski345</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>345@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4544">
+      <imie>Radosław</imie>
+      <nazwisko>Nowak346</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>346@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4426">
+      <imie>Marco</imie>
+      <nazwisko>Brzęczyszczykiewicz347</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>347@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4532">
+      <imie>Jagoda</imie>
+      <nazwisko>Maciejewski348</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>348@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4480">
+      <imie>Tomasz</imie>
+      <nazwisko>Jankowski349</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>349@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4441">
+      <imie>Przemysław</imie>
+      <nazwisko>Kowalski350</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>350@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4523">
+      <imie>Michał</imie>
+      <nazwisko>Nowak351</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>351@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4766">
+      <imie>Bartosz</imie>
+      <nazwisko>Brzęczyszczykiewicz352</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>352@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4941">
+      <imie>Achut</imie>
+      <nazwisko>Maciejewski353</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>353@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4647">
+      <imie>Aleksander</imie>
+      <nazwisko>Jankowski354</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>354@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4500">
+      <imie>Jan</imie>
+      <nazwisko>Kowalski355</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>355@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4422">
+      <imie>Yuriy</imie>
+      <nazwisko>Nowak356</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>356@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4660">
+      <imie>Michał</imie>
+      <nazwisko>Brzęczyszczykiewicz357</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>357@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4521">
+      <imie>Michał</imie>
+      <nazwisko>Maciejewski358</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>358@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4585">
+      <imie>Piotr</imie>
+      <nazwisko>Jankowski359</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>359@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s3081">
+      <imie>Mikołaj</imie>
+      <nazwisko>Kowalski360</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>360@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4710">
+      <imie>Dariusz</imie>
+      <nazwisko>Nowak361</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>361@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4385">
+      <imie>Anna</imie>
+      <nazwisko>Brzęczyszczykiewicz362</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>362@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4529">
+      <imie>Piotr</imie>
+      <nazwisko>Maciejewski363</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>363@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4522">
+      <imie>Michał</imie>
+      <nazwisko>Jankowski364</nazwisko>
+      <studia studia="Informatyka zaoczne" liczbaStudentow="1">
+        <typStudiow>Zaoczne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>364@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4827">
+      <imie>Dawid</imie>
+      <nazwisko>Kowalski365</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>365@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4518">
+      <imie>Karol</imie>
+      <nazwisko>Nowak366</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>366@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4384">
+      <imie>Adrian</imie>
+      <nazwisko>Brzęczyszczykiewicz367</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>367@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4496">
+      <imie>Łukasz</imie>
+      <nazwisko>Maciejewski368</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>368@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4750">
+      <imie>Adam</imie>
+      <nazwisko>Jankowski369</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>369@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4111">
+      <imie>Arkadiusz</imie>
+      <nazwisko>Kowalski370</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>370@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4484">
+      <imie>Jakub</imie>
+      <nazwisko>Nowak371</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>371@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4483">
+      <imie>Michał</imie>
+      <nazwisko>Brzęczyszczykiewicz372</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>372@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4751">
+      <imie>Tomasz</imie>
+      <nazwisko>Maciejewski373</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>373@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4528">
+      <imie>Radosław</imie>
+      <nazwisko>Jankowski374</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>374@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4533">
+      <imie>Paweł</imie>
+      <nazwisko>Kowalski375</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>375@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4814">
+      <imie>Przemysław</imie>
+      <nazwisko>Nowak376</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>376@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4753">
+      <imie>Adam</imie>
+      <nazwisko>Brzęczyszczykiewicz377</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>377@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4520">
+      <imie>Dawid</imie>
+      <nazwisko>Maciejewski378</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>378@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4837">
+      <imie>Adrian</imie>
+      <nazwisko>Jankowski379</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>379@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4611">
+      <imie>Sławomir</imie>
+      <nazwisko>Kowalski380</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>380@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4616">
+      <imie>Rafał</imie>
+      <nazwisko>Nowak381</nazwisko>
+      <studia studia="Informatyka dzienne" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>381@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+    <Student numerIndeksu="s4603">
+      <imie>Agnieszka</imie>
+      <nazwisko>Brzęczyszczykiewicz382</nazwisko>
+      <studia studia="Informatyka dzienne po angielsku" liczbaStudentow="1">
+        <typStudiow>Dzienne</typStudiow>
+      </studia>
+      <dataUrodzenia>2000-02-12</dataUrodzenia>
+      <email>382@pjwstk.edu.pl</email>
+      <imieMatki>Alina</imieMatki>
+      <imieOjca>Adam</imieOjca>
+    </Student>
+  </ListaStudentow>
+  <ListaStudiow />
+</Uczelnia>
